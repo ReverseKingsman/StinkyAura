@@ -1,0 +1,4 @@
+name: SmellyAura
+version: '${project.version}'
+main: de.npc.smellyaura.SmellyAura
+api-version: '1.21'
